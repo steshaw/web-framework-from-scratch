@@ -15,3 +15,9 @@ From
 - data models
 - sessions
 - codebase layout conventions
+
+
+## Of interest
+
+- http://www.yesodweb.com/blog/2014/04/disemboweling-wai
+- http://www.yesodweb.com/blog/2014/05/wai-3-0-alpha
