@@ -1,6 +1,6 @@
 
 From 
-[Build yourself a Haskell web framework by Carl Baatz](https://www.youtube.com/watch?v=etuSnom2v2M)
+[Build yourself a Haskell web framework by Carl Baatz](https://www.youtube.com/watch?v=etuSnom2v2M) [slides](https://cbaatz.github.io/build-a-haskell-web-framework/)
 
 ## Features:
 
